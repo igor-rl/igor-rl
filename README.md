@@ -12,10 +12,9 @@
 
   description: "Formado como Técnico em Eletrônica em 2013,
   Igor Lage tinha o hob de programar e criar aplicações pessoais para ajuda-lo no 
-  dia-a-dia. Em 2018 comercializou seu primeiro site de vendas construido em PHP, HTML,
-  CSS e JavaScript. Decidido a seguir sua paixão, fez a transição de carreira em 2022
-  quando lanço-se no mercado em busca da primeira oprtunidade como desenvolvedor
-  profissional. Amante de conhecimento prático e perfeccionista, tem a insassiável vontade
+  dia-a-dia. Decidido a seguir sua paixão, fez a transição de carreira em 2022
+  quando lanço-se no mercado em busca da primeira oportunidade como desenvolvedor
+  profissional. Amante de conhecimento prático e perfeccionista, tem a insaciável vontade
   de desenvolver soluções de software para os problemas do mundo real, desafiando-se
   constantemente para criar aplicações alto nível com tecnoligas modernas.",
 
