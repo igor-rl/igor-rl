@@ -236,7 +236,7 @@
       <small>Terraform</small>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
       <br/>
       <small>Git e Git Hub</small>
     </td>
