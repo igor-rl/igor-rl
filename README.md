@@ -192,6 +192,11 @@
 <table align="center">
   <tr>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" height="40" />
+      <br/>
+      <small>Google Cloud</small>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" height="40" />
       <br/>
       <small>AWS</small>
@@ -200,11 +205,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" height="40" />
       <br/>
       <small>Azure</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" height="40" />
-      <br/>
-      <small>Google Cloud</small>
     </td>
   </tr>
 </table>
