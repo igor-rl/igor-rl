@@ -215,7 +215,7 @@
 
 ```yml
 {
-  description: "Deploy, monitoramento, mensageria, métricas e conteinerização"
+  description: "Deploy, monitoramento, mensageria, métricas, conteinerização e versionamento"
 }
 ```
 <table align="center">
@@ -231,14 +231,24 @@
       <small>Kubernetes</small>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40" />
-      <br/>
-      <small>Grafana</small>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="40" />
       <br/>
       <small>Terraform</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <br/>
+      <small>Git e Git Hub</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" height="40" />
+      <br/>
+      <small>Git Hub Actions</small>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40" />
+      <br/>
+      <small>Grafana</small>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="40" />
