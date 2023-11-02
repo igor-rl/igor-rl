@@ -18,7 +18,7 @@
   de desenvolver soluções de software para os problemas do mundo real, desafiando-se
   constantemente para criar aplicações alto nível com tecnoligas modernas.",
 
-  resulm: "Muito prazer, Igor 😆.",
+  resulm: "Muito prazer, Igor 😆!",
 }
 ```
 <br/>
