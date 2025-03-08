@@ -75,6 +75,14 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="35" style="margin: 5px;">
 </p>
 
+##
+<img src="https://img.shields.io/static/v1?label=IRL&message=GITIOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="35" style="margin: 5px;">
+</p>
 <br>
 <br>
 <br>
