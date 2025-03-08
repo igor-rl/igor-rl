@@ -16,7 +16,7 @@ Tanks for visiting my github profile.
 ```
 <br/>
 
-## 🚀 Back-End Resources
+## 🚀 My Back-End Resources
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
