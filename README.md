@@ -29,7 +29,7 @@
   * I focus on teaching topics like JavaScript, TypeScript, Node.js, and DevOps in a simple and engaging way.  
 <br/>
 
-🚀 **Let’s Connect!**  
+🔗 **Let’s Connect!**  
 Feel free to check out my repositories, ask me anything, or connect with me on:  
   * LinkedIn: Your LinkedIn  
   * Twitter: @YourHandle  
@@ -37,10 +37,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 I’m always open to learning new things, collaborating on exciting projects, and discussing the latest tech trends. 😊
 
 
-<br/>
-
-
-## <img src="https://img.icons8.com/ios/50/000000/folder-invoices.png" alt="Resources" height="30"/> My Resources for a Great Job
+# 🧰 My Resources for a Great Job
 
 * 🚀 Back-End
 
