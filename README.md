@@ -85,4 +85,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="35" style="margin: 5px;">
 </p>
 
+<br/>
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
