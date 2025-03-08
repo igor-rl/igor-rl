@@ -17,22 +17,24 @@ Tanks for visiting my github profile.
 ```
 <br/>
 
-💻 **What I Do**
-  • I specialize in Full Stack Development and DevOps practices.  
-  • I enjoy solving complex problems by creating efficient and scalable web applications.  
-  • I work with modern technologies like Node.js, Go, Java, NestJS, and more.  
-  • I am passionate about CI/CD, cloud solutions, and automating workflows to streamline development processes.  
+💻 **What I Do**  
+  * I specialize in Full Stack Development and DevOps practices.  
+  * I enjoy solving complex problems by creating efficient and scalable web applications.  
+  * I work with modern technologies like Node.js, Go, Java, NestJS, and more.  
+  * I am passionate about CI/CD, cloud solutions, and automating workflows to streamline development processes.  
 
 🎥 **Teaching**  
-  • I’m the creator and teacher at Start Coding, a YouTube channel where I help beginners learn to code.  
-  • I focus on teaching topics like JavaScript, TypeScript, Node.js, and DevOps in a simple and engaging way.  
+  * I’m the creator and teacher at Start Coding, a YouTube channel where I help beginners learn to code.  
+  * I focus on teaching topics like JavaScript, TypeScript, Node.js, and DevOps in a simple and engaging way.  
 
 🚀 **Let’s Connect!**  
 Feel free to check out my repositories, ask me anything, or connect with me on:  
-  • LinkedIn: Your LinkedIn  
-  • Twitter: @YourHandle  
+  * LinkedIn: Your LinkedIn  
+  * Twitter: @YourHandle  
 
 I’m always open to learning new things, collaborating on exciting projects, and discussing the latest tech trends. 😊
+
+
 
 ## 🚀 My Back-End Resources
 
