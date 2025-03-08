@@ -3,7 +3,7 @@
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
 # 👋 Hi, I'm Igor Lage
-thanks for visiting my github profile.
+Tanks for visiting my github profile.
 
 ## Abolt me
 ```yml
