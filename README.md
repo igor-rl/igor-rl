@@ -43,11 +43,6 @@
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=FRONT-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-```yml
-{
-  description: "layouts responsivos"
-}
-```
 <table align="center">
   <tr>
     <td align="center">
@@ -93,11 +88,6 @@
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-```yml
-{
-  description: "API RESTful"
-}
-```
 <table align="center">
   <tr>
     <td align="center">
@@ -117,11 +107,6 @@
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=DATABASE&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-```yml
-{
-  description: "Armazenamento de dados"
-}
-```
 <table align="center">
   <tr>
     <td align="center">
@@ -157,11 +142,6 @@
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=CLOUD&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-```yml
-{
-  description: "Cloud providers"
-}
-```
 <table align="center">
   <tr>
     <td align="center">
@@ -186,11 +166,6 @@
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-```yml
-{
-  description: "Deploy, monitoramento, mensageria, métricas, conteinerização e versionamento"
-}
-```
 <table align="center">
   <tr>
     <td align="center">
