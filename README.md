@@ -7,8 +7,7 @@
 ```yml
 {
   name: "Igor Rodrigues Lage",
-
-  funtion: "FullStak Developer",
+  funtion: "FullStak DevOps Developer",
 }
 ```
 <br/>
@@ -17,40 +16,28 @@
 
 ```yml
 {
-  description: "Linguagens de programação utilizadas diariamente"
+  description: "Program Languages"
 }
 ```
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="40">
-      <br/>
-      <small>Go</small>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40">
-      <br/>
-      <small>PHP</small>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40">
-      <br/>
-      <small>Node.JS</small>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
-      <br/>
-      <small>TypeScript</small>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
-      <br/>
-      <small>JavaScript</small>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40">
-      <br/>
-      <small>jQuery</small>
     </td>
   </tr>
 </table>
@@ -259,7 +246,6 @@
 <br>
 
 <div align="center">
-
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rl/)
 </div>
 # igor-rl
