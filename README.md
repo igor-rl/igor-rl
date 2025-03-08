@@ -8,7 +8,7 @@
 {
   name: "Igor Lage",
   funtion: "FullStak and DevOps Developer",
-  👨‍🏫 teaching on the start codding youtube channel
+  teaching: "On the start codding youtube channel"
 }
 ```
 <br/>
