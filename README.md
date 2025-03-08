@@ -28,6 +28,7 @@ Tanks for visiting my github profile.
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="Express.js" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs" height="35" style="margin: 5px;">
 </p>
+<br/>
 
 
 ## 🎨 My Front-End Resources
@@ -41,6 +42,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.JS" height="35" style="margin: 5px;">
 </p>
+<br/>
 
 ## 🎲 My Database Resources
 
@@ -51,6 +53,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="35" style="margin: 5px;">
 </p>
+<br/>
 
 ## ☁️ My Cloud Resources
 
@@ -59,6 +62,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="35" style="margin: 5px;">
 </p>
+<br/>
 
 ## ♾️ My DevOps & Infrastructure Resources
 
@@ -71,6 +75,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="35" style="margin: 5px;">
 </p>
+<br/>
 
 ## ⚙️ My GitOps Resources
 
@@ -81,8 +86,6 @@ Tanks for visiting my github profile.
 </p>
 
 
-
-<br>
 <br>
 <br>
   
@@ -93,8 +96,3 @@ Tanks for visiting my github profile.
 <br>
 <br>
 <br>
-
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rl/)
-</div>
-# igor-rl
