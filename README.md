@@ -39,8 +39,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 
 # 🧰 My Resources for a Great Job
 
-* 🚀 Back-End
-
+🚀 **My Back-End Resources**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="45" style="margin: 5px;">
@@ -53,6 +52,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 </p>
 <br/>
 
+##
 
 🎨 **My Front-End Resources**
 
@@ -67,6 +67,8 @@ I’m always open to learning new things, collaborating on exciting projects, an
 </p>
 <br/>
 
+##
+
 🎲 **My Database Resources**
 
 <p align="center">
@@ -78,6 +80,8 @@ I’m always open to learning new things, collaborating on exciting projects, an
 </p>
 <br/>
 
+##
+
 ☁️ **My Cloud Resources**
 
 <p align="center">
@@ -86,6 +90,8 @@ I’m always open to learning new things, collaborating on exciting projects, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="35" style="margin: 5px;">
 </p>
 <br/>
+
+##
 
 ♾️ **My DevOps & Infrastructure Resources**
 
@@ -99,6 +105,8 @@ I’m always open to learning new things, collaborating on exciting projects, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="35" style="margin: 5px;">
 </p>
 <br/>
+
+##
 
 ⚙️ **My GitOps Resources**
 
