@@ -4,6 +4,7 @@
 
 # 👋 Hi, I'm Igor Lage
 
+## Abolt me
 ```yml
 {
   name: "Igor Lage",
@@ -13,6 +14,8 @@
 ```
 <br/>
 <br/>
+
+## My Job Resources
 <img src="https://img.shields.io/static/v1?label=IRL&message=Dev%20Languages&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
 <table align="center">
