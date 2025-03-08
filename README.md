@@ -4,6 +4,7 @@
 
 # 👋 Hi, I'm Igor Lage
 Tanks for visiting my github profile.
+<img src="https://img.shields.io/static/v1?label=IRL&message=FULL&STAK&DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
 ## 👤 Abolt me
 ```yml
@@ -14,8 +15,7 @@ Tanks for visiting my github profile.
 }
 ```
 
-## 🛠️ My Job Resources
-<img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
+## 🚀 My Back-End Resources
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
@@ -29,17 +29,16 @@ Tanks for visiting my github profile.
 </p>
 
 
-##
-<img src="https://img.shields.io/static/v1?label=IRL&message=FRONT-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
+## 🎨 My Front-End Resources
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.JS" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.JS" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.JS" height="35" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="35" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="35" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="35" style="margin: 5px;">
 </p>
 
 ##
