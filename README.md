@@ -3,6 +3,7 @@
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
 # 👋 Hi, I'm Igor Lage
+thanks for visiting my github profile.
 
 ## Abolt me
 ```yml
@@ -12,8 +13,6 @@
   teaching: "Teaching in the Start Codding YouTube channel"
 }
 ```
-<br/>
-<br/>
 
 ## My Job Resources
 <img src="https://img.shields.io/static/v1?label=IRL&message=Dev%20Languages&color=2d2d2d&style=for-the-badge&logo=GitHub">
