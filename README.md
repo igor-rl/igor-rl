@@ -8,17 +8,13 @@
 {
   name: "Igor Rodrigues Lage",
   funtion: "FullStak DevOps Developer",
+  teating in 
 }
 ```
 <br/>
 <br/>
 <img src="https://img.shields.io/static/v1?label=IRL&message=Dev%20Languages&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-```yml
-{
-  description: "Program Languages"
-}
-```
 <table align="center">
   <tr>
     <td align="center">
