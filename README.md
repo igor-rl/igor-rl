@@ -18,14 +18,30 @@ Tanks for visiting my github profile.
 <img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
 <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="50">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"alt="NodeJs" height="50">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" height="55">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NesJs" height="40">
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="35">
+  </span>
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="35">
+  </span>
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" height="35">
+  </span>
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="35">
+  </span>
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="35">
+  </span>
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="35">
+  </span>
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" height="35">
+  </span>
+  <span style="background: white; border-radius: 50%; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs" height="35">
+  </span>
 </p>
 
 
