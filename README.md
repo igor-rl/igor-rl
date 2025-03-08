@@ -18,9 +18,9 @@ Tanks for visiting my github profile.
 <img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="35" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="35" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="45" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" height="40" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="35" style="margin: 5px;">
@@ -29,8 +29,7 @@ Tanks for visiting my github profile.
 </p>
 
 
-<br/>
-<br/>
+##
 <img src="https://img.shields.io/static/v1?label=IRL&message=FRONT-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
 <p align="center">
@@ -63,49 +62,18 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="35" style="margin: 5px;">
 </p>
 
-<br/>
-<br/>
+##
 <img src="https://img.shields.io/static/v1?label=IRL&message=DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" height="40" />
-      <br/>
-      <small>Docker</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" />
-      <br/>
-      <small>Kubernetes</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="40" />
-      <br/>
-      <small>Terraform</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
-      <br/>
-      <small>Git e Git Hub</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" height="40" />
-      <br/>
-      <small>Git Hub Actions</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40" />
-      <br/>
-      <small>Grafana</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="40" />
-      <br/>
-      <small>Kafka</small>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="ArgoCD" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="35" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="35" style="margin: 5px;">
+</p>
 
 <br>
 <br>
