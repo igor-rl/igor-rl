@@ -3,11 +3,12 @@
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
 # 👋 Hi, I'm Igor Lage
+
 ```yml
 {
   name: "Igor Lage",
-  funtion: "FullStak DevOps Developer",
-  teaching on the start codding youtube channel
+  funtion: "FullStak and DevOps Developer",
+  👨‍🏫 teaching on the start codding youtube channel
 }
 ```
 <br/>
