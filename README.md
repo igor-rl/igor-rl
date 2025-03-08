@@ -5,14 +5,22 @@
 # 👋 Hi, I'm Igor Lage
 <img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-Tanks for visiting my github profile.
+Tanks for visiting my github profile! 💪
 
-## 👤 Abolt me
+# 👋 Hi, I'm Igor Lage
+<img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+
+Thanks for visiting my GitHub profile!
+
+## 👤 About Me
 ```yml
 {
   name: "Igor Lage",
-  funtion: "FullStak and DevOps Developer",
-  teaching: "Teaching in the Start Codding YouTube channel"
+  role: "Full Stack Developer & DevOps Engineer 👨‍💻",
+  passion: "Building scalable systems and automating workflows ⚙️",
+  teaching: "Teaching programming on the Start Coding YouTube channel 🎥",
+  experience: "Experienced in technologies like Node.js, Go, Java, TypeScript, and more 🛠️",
+  focus: "Currently focusing on cloud architectures, CI/CD pipelines, and DevOps best practices ☁️"
 }
 ```
 <br/>
@@ -22,10 +30,12 @@ Tanks for visiting my github profile.
   * I enjoy solving complex problems by creating efficient and scalable web applications.  
   * I work with modern technologies like Node.js, Go, Java, NestJS, and more.  
   * I am passionate about CI/CD, cloud solutions, and automating workflows to streamline development processes.  
+<br/>
 
 🎥 **Teaching**  
   * I’m the creator and teacher at Start Coding, a YouTube channel where I help beginners learn to code.  
   * I focus on teaching topics like JavaScript, TypeScript, Node.js, and DevOps in a simple and engaging way.  
+<br/>
 
 🚀 **Let’s Connect!**  
 Feel free to check out my repositories, ask me anything, or connect with me on:  
@@ -34,6 +44,8 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 
 I’m always open to learning new things, collaborating on exciting projects, and discussing the latest tech trends. 😊
 
+
+<br/>
 
 
 ## 🚀 My Back-End Resources
