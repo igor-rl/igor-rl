@@ -15,7 +15,7 @@ Tanks for visiting my github profile.
 ```
 
 ## 🛠️ My Job Resources
-<img src="https://img.shields.io/static/v1?label=IRL&message=Dev%20Languages&color=2d2d2d&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
 <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="50">
@@ -24,6 +24,7 @@ Tanks for visiting my github profile.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NesJs" height="40">
 </p>
 
 
@@ -67,26 +68,6 @@ Tanks for visiting my github profile.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40">
       <br/>
       <small>CSS3</small>
-    </td>
-  </tr>
-</table>
-
-
-<br/>
-<br/>
-<img src="https://img.shields.io/static/v1?label=IRL&message=BACK-END&color=2d2d2d&style=for-the-badge&logo=GitHub">
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" height="40">
-      <br/>
-      <small>Nest.JS</small>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="40">
-      <br/>
-      <small>Go</small>
     </td>
   </tr>
 </table>
