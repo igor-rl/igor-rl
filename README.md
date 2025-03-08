@@ -41,8 +41,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.JS" height="35" style="margin: 5px;">
 </p>
 
-##
-<img src="https://img.shields.io/static/v1?label=IRL&message=DATABASE&color=2d2d2d&style=for-the-badge&logo=GitHub">
+## 🎲 My Database Resources
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="35" style="margin: 5px;">
@@ -52,8 +51,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="35" style="margin: 5px;">
 </p>
 
-## 
-<img src="https://img.shields.io/static/v1?label=IRL&message=CLOUD&color=2d2d2d&style=for-the-badge&logo=GitHub">
+## ☁️ My Cloud Resources
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="35" style="margin: 5px;">
@@ -61,8 +59,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="35" style="margin: 5px;">
 </p>
 
-##
-<img src="https://img.shields.io/static/v1?label=IRL&message=DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+## ♾️ My DevOps & Infrastructure Resources
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" style="margin: 5px;">
@@ -74,8 +71,7 @@ Tanks for visiting my github profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="35" style="margin: 5px;">
 </p>
 
-##
-<img src="https://img.shields.io/static/v1?label=IRL&message=GITIOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+## ⚙️ My GitOps Resources
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" style="margin: 5px;">
