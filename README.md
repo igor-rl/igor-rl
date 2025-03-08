@@ -41,7 +41,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 
 
 ## <img src="https://img.icons8.com/ios/50/000000/folder-invoices.png" alt="Resources" height="30"/> My Resources for a Great Job
-<p align="center">
+* <p align="center">
   <strong>🚀 Back-End</strong>
 </p>
 
