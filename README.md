@@ -3,8 +3,9 @@
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
 # 👋 Hi, I'm Igor Lage
+<img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+
 Tanks for visiting my github profile.
-<img src="https://img.shields.io/static/v1?label=IRL&message=FULL&STAK&DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
 ## 👤 Abolt me
 ```yml
@@ -86,7 +87,8 @@ Tanks for visiting my github profile.
 </p>
 
 <br/>
-#
+
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
