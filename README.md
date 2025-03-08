@@ -17,14 +17,14 @@ Tanks for visiting my github profile.
 ## 🛠️ My Job Resources
 <img src="https://img.shields.io/static/v1?label=IRL&message=Dev%20Languages&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-<table align="center">
+<p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"alt="NodeJs" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40">
-</table>
+</p>
 
 
 <br/>
