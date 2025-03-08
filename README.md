@@ -5,14 +5,6 @@
 # 👋 Hi, I'm Igor Lage
 <img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
 
-Tanks for visiting my github profile! 💪
-
-# 👋 Hi, I'm Igor Lage
-<img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
-
-Thanks for visiting my GitHub profile!
-
-## 👤 About Me
 ```yml
 {
   name: "Igor Lage",
@@ -48,7 +40,9 @@ I’m always open to learning new things, collaborating on exciting projects, an
 <br/>
 
 
-## 🚀 My Back-End Resources
+## 
+
+🚀 **My Back-End Resources**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
@@ -63,7 +57,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 <br/>
 
 
-## 🎨 My Front-End Resources
+🎨 **My Front-End Resources**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" style="margin: 5px;">
@@ -76,7 +70,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 </p>
 <br/>
 
-## 🎲 My Database Resources
+🎲 **My Database Resources**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="35" style="margin: 5px;">
@@ -87,7 +81,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 </p>
 <br/>
 
-## ☁️ My Cloud Resources
+☁️ **My Cloud Resources**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="35" style="margin: 5px;">
@@ -96,7 +90,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 </p>
 <br/>
 
-## ♾️ My DevOps & Infrastructure Resources
+♾️ **My DevOps & Infrastructure Resources**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" style="margin: 5px;">
@@ -109,7 +103,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
 </p>
 <br/>
 
-## ⚙️ My GitOps Resources
+⚙️ **My GitOps Resources**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" style="margin: 5px;">
