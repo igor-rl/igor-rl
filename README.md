@@ -2,13 +2,12 @@
 <!-- icons https://devicon.dev/ -->
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
-<img src="https://img.shields.io/static/v1?label=Github&message=IRL&color=2d2d2d&style=for-the-badge&logo=GitHub">
-
+# 👋 Hi, I'm Igor Lage
 ```yml
 {
-  name: "Igor Rodrigues Lage",
+  name: "Igor Lage",
   funtion: "FullStak DevOps Developer",
-  teating in 
+  teaching on the start codding youtube channel
 }
 ```
 <br/>
