@@ -31,16 +31,19 @@
 🎥 **Como educador eu...**  
   * Sou o criador e professor do Start Coding, um canal no YouTube onde ajudo iniciantes a aprender programação.
   * Foco em ensinar os primeiros passos no mundo do denvolvento de forma simples e prática.<br/>
+<br/>
 
 🔗 **Let’s Connect!**  
 Feel free to check out my repositories, ask me anything, or connect with me on:  
   * LinkedIn: Your LinkedIn  
   * Twitter: @YourHandle  
+<br/>
 
-🧰 **Meus Recursos de Dev e Devops incluem**
+🧰 **Meus Recursos de Dev e Devops incluem...**
 
 <ul>
-🚀 **My Back-End Resources**
+  
+🚀 **Back-End**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="45" style="margin: 5px;">
@@ -53,10 +56,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-##
-
-🎨 **My Front-End Resources**
-
+🎨 **Front-End**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="35" style="margin: 5px;">
@@ -68,10 +68,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-##
-
-🎲 **My Database Resources**
-
+🎲 **Database**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" style="margin: 5px;">
@@ -81,10 +78,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-##
-
-☁️ **My Cloud Resources**
-
+☁️ **Cloud**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" style="margin: 5px;">
@@ -92,10 +86,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-##
-
-♾️ **My DevOps & Infrastructure Resources**
-
+♾️ **DevOps & Infrastructure**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="35" style="margin: 5px;">
@@ -107,9 +98,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-##
-
-⚙️ **My GitOps Resources**
+⚙️ **GitOps**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" style="margin: 5px;">
