@@ -114,12 +114,12 @@ Estou ativo nas redes sociais:
   * [youtube](https://www.youtube.com/@StartCodingOficial)
 <br/>
 
-##
+## Minas Métricas no GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
-
+# 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Igor_Lage-blue?style=social&logo=github)](https://github.com/igor-rl) 
