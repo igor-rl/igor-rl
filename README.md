@@ -2,7 +2,7 @@
 <!-- icons https://devicon.dev/ -->
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
-# 👋 Hi, I'm Igor Lage
+# 👋 Muito prazer, eu sou Igor Lage!
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
@@ -10,13 +10,11 @@
 </p>
 
 ```yml
-{
-  name: "Igor Lage",
-  role: "Full Stack Developer & DevOps Engineer 👨‍💻",
-  passion: "Building scalable systems and automating workflows ⚙️",
-  teaching: "Teaching programming on the Start Coding YouTube channel 🎥",
-  experience: "Experienced in technologies like Node.js, Go, Java, TypeScript, and more 🛠️",
-  focus: "Currently focusing on cloud architectures, CI/CD pipelines, and DevOps best practices ☁️"
+{ "resumo": {
+  nome: "Igor Lage",
+  profissão: "Desenvolvedor Web & DevOps 👨‍💻",
+  robby: "Teaching programming on the Start Coding YouTube channel 🎥",
+  linguagens: "Python, Node.js, Go, Java, TypeScript, and more 🛠️",
 }
 ```
 <br/>
