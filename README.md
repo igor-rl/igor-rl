@@ -33,9 +33,7 @@
   * Foco em ensinar os primeiros passos no mundo do denvolvento de forma simples e prática.<br/>
 <br/>
 
-##
-
-🧰 **Meus Recursos de Dev e Devops incluem...**
+## 🧰 Meus Recursos de Dev e Devops incluem...
 
 <ul>
   
@@ -108,10 +106,9 @@
 
 <br/>
 
-##
+## 🔗 Vamos nos conectar?
 
-🔗 **Redes sociais**  
-Feel free to check out my repositories, ask me anything, or connect with me on:  
+Estou ativo nas redes sociais:  
   * [LinkedIn](https://linkdin.com/in/igor-rl)
   * [X](https://x.com/igor-rl)
   * [youtube](https://www.youtube.com/@StartCodingOficial)
