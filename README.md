@@ -10,37 +10,36 @@
 </p>
 
 ```yml
-{ resumo: {
-  nome: "Igor Lage",
-  profissão: "Desenvolvedor Web & DevOps 👨‍💻",
-  robby: "Teaching programming on the Start Coding YouTube channel 🎥",
-  linguagens: "Python, Node.js, Go, Java, TypeScript, and more 🛠️",
+{ 
+  resumo: {
+    nome: "Igor Lage",
+    profissão: "Desenvolvedor Web & DevOps 👨‍💻",
+    robby: "Teaching programming on the Start Coding YouTube channel 🎥",
+    linguagens: "Python, Node.js, Go, Java, TypeScript, and more 🛠️"
+  }
 }
 ```
 <br/>
 
-💻 **What I Do**  
-  * I specialize in Full Stack Development and DevOps practices.  
-  * I enjoy solving complex problems by creating efficient and scalable web applications.  
-  * I work with modern technologies like Node.js, Go, Java, NestJS, and more.  
-  * I am passionate about CI/CD, cloud solutions, and automating workflows to streamline development processes.  
+💻 **Como dev eu...**
+  * Sou especializado em Desenvolvimento e práticas de DevOps.
+  * Gosto de resolver problemas complexos criando aplicações web eficientes e escaláveis.
+  * Trabalho com tecnologias modernas como Node.js, Go, Java, TypeScript e outras.
+  * Sou apaixonado por CI/CD, soluções em nuvem e automação de fluxos de trabalho para otimizar processos de desenvolvimento.
 <br/>
 
-🎥 **Teaching**  
-  * I’m the creator and teacher at Start Coding, a YouTube channel where I help beginners learn to code.  
-  * I focus on teaching topics like JavaScript, TypeScript, Node.js, and DevOps in a simple and engaging way.  
-<br/>
+🎥 **Como educador eu...**  
+  * Sou o criador e professor do Start Coding, um canal no YouTube onde ajudo iniciantes a aprender programação.
+  * Foco em ensinar os primeiros passos no mundo do denvolvento de forma simples e prática.<br/>
 
 🔗 **Let’s Connect!**  
 Feel free to check out my repositories, ask me anything, or connect with me on:  
   * LinkedIn: Your LinkedIn  
   * Twitter: @YourHandle  
 
-I’m always open to learning new things, collaborating on exciting projects, and discussing the latest tech trends. 😊
+🧰 **Meus Recursos de Dev e Devops incluem**
 
-
-# 🧰 My Resources for a Great Job
-
+<ul>
 🚀 **My Back-End Resources**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
@@ -117,7 +116,7 @@ I’m always open to learning new things, collaborating on exciting projects, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="35" style="margin: 5px;">
 </p>
-
+</ul>
 <br/>
 
 ##
