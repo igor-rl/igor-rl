@@ -10,7 +10,7 @@
 </p>
 
 ```yml
-{ "resumo": {
+{ resumo: {
   nome: "Igor Lage",
   profissão: "Desenvolvedor Web & DevOps 👨‍💻",
   robby: "Teaching programming on the Start Coding YouTube channel 🎥",
