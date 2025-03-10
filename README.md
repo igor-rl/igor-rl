@@ -119,7 +119,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Igor_Lage-blue?style=social&logo=github)](https://github.com/igor-rl) 
+[![GitHub](https://img.shields.io/badge/GitHub-Igor_Lage-blue?style=social&logo=github)](https://github.com/igor-lage) 
 ![Static Badge](https://img.shields.io/badge/10--03--2025-black)
 
 </div>
