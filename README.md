@@ -33,6 +33,8 @@
   * Foco em ensinar os primeiros passos no mundo do denvolvento de forma simples e prática.<br/>
 <br/>
 
+##
+
 🧰 **Meus Recursos de Dev e Devops incluem...**
 
 <ul>
@@ -104,11 +106,15 @@
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="35" style="margin: 5px;"></a>
 </p>
 
+<br/>
+
+##
 
 🔗 **Redes sociais**  
 Feel free to check out my repositories, ask me anything, or connect with me on:  
   * [LinkedIn](https://linkdin.com/in/igor-rl)
   * [X](https://x.com/igor-rl)
+  * [youtube](https://www.youtube.com/@StartCodingOficial)
 <br/>
 
 ##
