@@ -108,5 +108,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
   * [X](https://x.com/igor-rl)
 <br/>
 
+##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
