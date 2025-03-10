@@ -33,17 +33,11 @@
   * Foco em ensinar os primeiros passos no mundo do denvolvento de forma simples e prática.<br/>
 <br/>
 
-🔗 **Let’s Connect!**  
-Feel free to check out my repositories, ask me anything, or connect with me on:  
-  * LinkedIn: Your LinkedIn  
-  * Twitter: @YourHandle  
-<br/>
-
 🧰 **Meus Recursos de Dev e Devops incluem...**
 
 <ul>
   
-🚀 **Back-End**
+🚀 **Back-End:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="45" style="margin: 5px;">
@@ -56,7 +50,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-🎨 **Front-End**
+🎨 **Front-End:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="35" style="margin: 5px;">
@@ -68,7 +62,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-🎲 **Database**
+🎲 **Database:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" style="margin: 5px;">
@@ -78,7 +72,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-☁️ **Cloud**
+☁️ **Cloud:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" style="margin: 5px;">
@@ -86,7 +80,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-♾️ **DevOps & Infrastructure**
+♾️ **DevOps & Infrastructure:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="35" style="margin: 5px;">
@@ -98,8 +92,7 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </p>
 <br/>
 
-⚙️ **GitOps**
-
+⚙️ **GitOps:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" style="margin: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="35" style="margin: 5px;">
@@ -108,7 +101,12 @@ Feel free to check out my repositories, ask me anything, or connect with me on:
 </ul>
 <br/>
 
-##
+
+🔗 **Redes sociais**  
+Feel free to check out my repositories, ask me anything, or connect with me on:  
+  * [LinkedIn](https://linkdin.com/in/igor-rl)
+  * [X](https://x.com/igor-rl)
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
