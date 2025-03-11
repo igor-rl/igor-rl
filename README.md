@@ -2,7 +2,11 @@
 <!-- icons https://devicon.dev/ -->
 <!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
 
-# 👋 Muito prazer, eu sou Igor Lage!
+<!-- insignias https://github.com/Ileriayo/markdown-badges -->
+<!-- iconos https://devicon.dev/ -->
+<!-- perfil_ejemplos https://github.com/iuricode/readme-template/tree/main/perfil -->
+
+# 👋 ¡Hola, soy Igor Lage!
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
@@ -11,29 +15,31 @@
 
 ```yml
 { 
-  resumo: {
-    nome: "Igor Lage",
-    profissão: "Desenvolvedor Web & DevOps 👨‍💻",
-    robby: "Professor na Start Coding 🎥",
-    linguagens: "Python, Node.js, Go, Java, TypeScript, PHP e mais... 🛠️"
+  summary: {
+    name: "Igor Lage",
+    profession: "Desarrollador Web & DevOps 👨‍💻",
+    hobby: "Instructor en Start Coding 🎥",
+    languages: "Python, Node.js, Go, Java, TypeScript, PHP y más... 🛠️"
   }
 }
 ```
 <br/>
 
-💻 **Como dev eu...**
-  * Sou especializado em Desenvolvimento e práticas de DevOps.
-  * Gosto de resolver problemas complexos criando aplicações web eficientes e escaláveis.
-  * Trabalho com tecnologias modernas como Node.js, Go, Java, TypeScript e outras.
-  * Sou apaixonado por CI/CD, soluções em nuvem e automação de fluxos de trabalho para otimizar processos de desenvolvimento.
+💻 **Como desarrollador, yo…**
+
+* Me especializo en prácticas de desarrollo y DevOps.
+* Disfruto resolviendo problemas complejos construyendo aplicaciones web eficientes y escalables.
+* Trabajo con tecnologías modernas como Node.js, Go, Java, TypeScript, y más.
+* Tengo pasión por CI/CD, soluciones en la nube y automatización de flujos de trabajo para optimizar procesos de desarrollo.
+</br>
+
+🎥 **Como educador, yo...**
+
+* Soy el creador e instructor de Start Coding, un canal de YouTube para programadores principiantes.
+* Me enfoco en enseñar los primeros pasos en el mundo del desarrollo de manera simple y práctica.
 <br/>
 
-🎥 **Como educador eu...**  
-  * Sou o criador e professor do [Start Coding](https://www.youtube.com/@StartCodingOficial), um canal no YouTube para programadores iniciantes.
-  * Foco em ensinar os primeiros passos no mundo do denvolvento de forma simples e prática.<br/>
-<br/>
-
-## 🧰 Meus Recursos de Dev e Devops incluem...
+## 🧰 Mis recursos de dev y DevOps...
 
 <ul>
   
@@ -106,15 +112,15 @@
 
 <br/>
 
-## 🔗 Vamos nos conectar?
+## 🔗 ¡Conectemos!
 
-Estou ativo nas redes sociais:  
+Abierto a compartir ideas, colaborar y crecer juntos. ¡No dudes en contactarme!
   * [LinkedIn](https://linkdin.com/in/igor-rl)
   * [X](https://x.com/igor-rl)
   * [youtube](https://www.youtube.com/@StartCodingOficial)
 <br/>
 
-## 💹 Minas Métricas no GitHub
+## 💹 Mis métricas de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
