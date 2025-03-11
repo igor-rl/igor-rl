@@ -104,6 +104,8 @@
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="35" style="margin: 5px;"></a>
 </p>
 
+</ul>
+
 <br/>
 
 ## 🔗 Vamos nos conectar?
