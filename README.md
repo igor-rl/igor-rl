@@ -11,9 +11,8 @@
 
 ## 📖 Index
 
-- [🌍 Languages](#languages)
+- [🌎 Languages](#languages)
 - [📋 A brief summary...](#a-brief-summary)
-  - [Summary](#a-brief-summary)
   - [💻 As a Developer...](#dev)
   - [🎥 As an Educator...](#education)
 - [🧰 My Dev and DevOps Tools](#-my-dev-and-devops-tools)
@@ -26,10 +25,10 @@
 - [🔗 Let's Connect!](#-lets-connect)
 - [💹 My GitHub Metrics](#-my-github-metrics)
 
-## 🌍 Languages
-- [Leia em Português (pt-BR)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
-- [Ler en Español (es)](https://github.com/igor-rl/igor-rl/tree/es/README.md)
+## 🌎 Languages
 - [Read in English (en)](https://github.com/igor-rl/igor-rl/tree/en/README.md)
+- [Ler en Español (es)](https://github.com/igor-rl/igor-rl/tree/es/README.md)
+- [Leia em Português (pt-BR)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
 
 ## 📋 A brief summary...
 
