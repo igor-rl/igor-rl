@@ -58,7 +58,7 @@
   * Focus on teaching the first steps into the world of development in a simple and practical way.
 <br/>
 
-## 🧰 My Dev e Devops resources...
+## 🧰 My Dev e Devops Tools...
 
 <ul>
   <a id="back-end"></a>
