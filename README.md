@@ -11,8 +11,8 @@
 
 ## 📖 Índice
 
-- [🌍 Idiomas](#idiomas)
-- [💻 Um breve resumo...](#um-breve-resumo)
+- [🌎 Idiomas](#idiomas)
+- [📋 Um breve resumo...](#um-breve-resumo)
   - [Resumo](#um-breve-resumo)
   - [💻 Como Dev Eu...](#dev)
   - [🎥 Como Educador Eu...](#education)
@@ -26,14 +26,14 @@
 - [🔗 Vamos nos Conectar?](#-vamos-nos-conectar)
 - [💹 Minhas Métricas no GitHub](#-minhas-métricas-no-github)
 
-## Idiomas
+## 🌎 Idiomas
 - [Read in English (en)](https://github.com/igor-rl/igor-rl/tree/en/README.md)
 - [Ler en Español (es)](https://github.com/igor-rl/igor-rl/tree/es/README.md)
 - [Leia em Português (pt-BR)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
 
 ## Um breve resumo...
 
-```yml
+```bash
 { 
   resumo: {
     nome: "Igor Lage",
