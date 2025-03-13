@@ -33,7 +33,7 @@
 
 ## A brief summary...
 
-```yml
+```bash
 { 
   summary: {
     name: "Igor Lage",
@@ -46,13 +46,11 @@
 <br/>
 
 <a id="dev"></a>
-💻 **As a developer, I…**
-
-	*	Specialize in development and DevOps practices.
+💻 **As a developer, I...**
+  *	Specialize in development and DevOps practices.
 	*	Enjoy solving complex problems by building efficient and scalable web applications.
 	*	Work with modern technologies like Node.js, Go, Java, TypeScript, and more.
 	*	Have a passion for CI/CD, cloud solutions, and workflow automation to streamline development processes.
-
 <br/>
 
 <a id="education"></a>
