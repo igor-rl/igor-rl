@@ -27,7 +27,7 @@
   - [♾️ DevOps & Infraestructura](#devops)
   - [⚙️ GitOps](#gitops)
 - [🔗 ¡Conectémonos!](#-conectemonos)
-- [💹 Mis Métricas de GitHub](#-mis-metricas-de-github)
+- [💹 Mis Métricas de GitHub](#-mis-métricas-de-github)  
 
 ## 🌎 Idiomas
 - [Leia em Português (pt-BR)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
@@ -63,7 +63,7 @@
 * Me enfoco en enseñar los primeros pasos en el mundo del desarrollo de manera simple y práctica.
 <br/>
 
-## 🧰  Mis Herramientas de Dev y DevOps...
+## 🧰 Mis Herramientas de Dev y DevOps
 
 <ul>
 
@@ -148,7 +148,7 @@ Abierto a compartir ideas, colaborar y crecer juntos. ¡No dudes en contactarme!
   * [youtube](https://www.youtube.com/@StartCodingOficial)
 <br/>
 
-## 💹 Mis Métricas de GitHub
+## 💹 Mis Métricas de GitHub 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
