@@ -9,8 +9,22 @@
 <img src="https://img.shields.io/static/v1?label=Teaching&message=Start%20Coding&color=FF0000&style=for-the-badge&logo=youtube" alt="Teaching Badge">
 </p>
 
-##
+## 📖 Índice
 
+- [🌍 Idiomas](#-índice-de-idiomas)
+- [💻 Como Dev Eu...](#-como-dev-eu)
+- [🎥 Como Educador Eu...](#-como-educador-eu)
+- [🧰 Meus Recursos de Dev e DevOps](#-meus-recursos-de-dev-e-devops-incluem)
+  - [🚀 Back-End](#-back-end)
+  - [🎨 Front-End](#-front-end)
+  - [🎲 Database](#-database)
+  - [☁️ Cloud](#-cloud)
+  - [♾️ DevOps & Infrastructure](#-devops--infrastructure)
+  - [⚙️ GitOps](#-gitops)
+- [🔗 Vamos nos Conectar?](#-vamos-nos-conectar)
+- [💹 Minhas Métricas no GitHub](#-minhas-métricas-no-github)
+
+## Idiomas
 - [Read in English (en)](https://github.com/igor-rl/igor-rl/tree/en/README.md)
 - [Ler en Español (es)](https://github.com/igor-rl/igor-rl/tree/es/README.md)
 - [Leia em Português (pt-BR)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
