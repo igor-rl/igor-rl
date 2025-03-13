@@ -13,7 +13,6 @@
 
 - [🌎 Idiomas](#idiomas)
 - [📋 Um breve resumo...](#um-breve-resumo)
-  - [Resumo](#um-breve-resumo)
   - [💻 Como Dev Eu...](#dev)
   - [🎥 Como Educador Eu...](#education)
 - [🧰 Meus Recursos de Dev e DevOps](#-meus-recursos-de-dev-e-devops-incluem)
