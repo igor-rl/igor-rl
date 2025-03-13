@@ -33,7 +33,7 @@
 
 ## A brief summary...
 
-```bash
+```json
 { 
   summary: {
     name: "Igor Lage",
