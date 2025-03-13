@@ -63,7 +63,7 @@
 * Me enfoco en enseñar los primeros pasos en el mundo del desarrollo de manera simple y práctica.
 <br/>
 
-## 🧰 Mis recursos de dev y DevOps...
+## 🧰  Mis Herramientas de Dev y DevOps...
 
 <ul>
 
@@ -140,7 +140,7 @@
 
 <br/>
 
-## 🔗 ¡Conectemos!
+## 🔗 ¡Conectemonos!
 
 Abierto a compartir ideas, colaborar y crecer juntos. ¡No dudes en contactarme!
   * [LinkedIn](https://linkdin.com/in/igor-rl)
@@ -148,7 +148,7 @@ Abierto a compartir ideas, colaborar y crecer juntos. ¡No dudes en contactarme!
   * [youtube](https://www.youtube.com/@StartCodingOficial)
 <br/>
 
-## 💹 Mis métricas de GitHub
+## 💹 Mis Métricas de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
