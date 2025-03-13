@@ -12,12 +12,10 @@
 ## 📖 Índice
 
 - [🌍 Idiomas](#idiomas)
-
 - [💻 Um breve resumo...](#um-breve-resumo)
   - [Resumo](#um-breve-resumo)
   - [💻 Como Dev Eu...](#dev)
   - [🎥 Como Educador Eu...](#education)
-
 - [🧰 Meus Recursos de Dev e DevOps](#-meus-recursos-de-dev-e-devops-incluem)
   - [🚀 Back-End](#back-end)
   - [🎨 Front-End](#front-end)
@@ -25,9 +23,7 @@
   - [☁️ Cloud](#cloud)
   - [♾️ DevOps & Infrastructure](#devops)
   - [⚙️ GitOps](#gitops)
-
 - [🔗 Vamos nos Conectar?](#-vamos-nos-conectar)
-
 - [💹 Minhas Métricas no GitHub](#-minhas-métricas-no-github)
 
 ## Idiomas
@@ -57,7 +53,7 @@
   * Sou apaixonado por CI/CD, soluções em nuvem e automação de fluxos de trabalho para otimizar processos de desenvolvimento.
 <br/>
 
-<a id="educarion"></a>
+<a id="education"></a>
 🎥 **Como educador eu...**  
   * Sou o criador e professor do [Start Coding](https://www.youtube.com/@StartCodingOficial), um canal no YouTube para programadores iniciantes.
   * Foco em ensinar os primeiros passos no mundo do denvolvento de forma simples e prática.<br/>
