@@ -11,15 +11,15 @@
 
 ## 📖 Índice
 
-- [🌍 Idiomas](#-índice-de-idiomas)
-- [💻 Como Dev Eu...](#-como-dev-eu)
-- [🎥 Como Educador Eu...](#-como-educador-eu)
+- [🌍 Idiomas](#idiomas)
+- [💻 Como Dev Eu...](#-como-dev-eu...)
+- [🎥 Como Educador Eu...](#-como-educador-eu...)
 - [🧰 Meus Recursos de Dev e DevOps](#-meus-recursos-de-dev-e-devops-incluem)
   - [🚀 Back-End](#-back-end)
   - [🎨 Front-End](#-front-end)
   - [🎲 Database](#-database)
   - [☁️ Cloud](#-cloud)
-  - [♾️ DevOps & Infrastructure](#-devops--infrastructure)
+  - [♾️ DevOps & Infrastructure](#-devops)
   - [⚙️ GitOps](#-gitops)
 - [🔗 Vamos nos Conectar?](#-vamos-nos-conectar)
 - [💹 Minhas Métricas no GitHub](#-minhas-métricas-no-github)
@@ -58,7 +58,8 @@
 ## 🧰 Meus Recursos de Dev e Devops incluem...
 
 <ul>
-  
+
+<a id="back-end"></a>
 🚀 **Back-End:**
 <p>
   <a href="https://golang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;"></a>
@@ -73,6 +74,7 @@
 
 ##
 
+<a id="front-end"></a>
 🎨 **Front-End:**
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" style="margin: 5px;"></a>
@@ -86,6 +88,7 @@
 
 ##
 
+<a id="database"></a>
 🎲 **Database:**
 <p>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="35" style="margin: 5px;"></a>
@@ -97,6 +100,7 @@
 
 ##
 
+<a id="cloud"></a>
 ☁️ **Cloud:**
 <p>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="35" style="margin: 5px;"></a>
@@ -106,6 +110,7 @@
 
 ##
 
+<a id="devops"></a>
 ♾️ **DevOps & Infrastructure:**
 <p>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" style="margin: 5px;"></a>
@@ -119,6 +124,7 @@
 
 ##
 
+<a id="gitops"></a>
 ⚙️ **GitOps:**
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" style="margin: 5px;"></a>
