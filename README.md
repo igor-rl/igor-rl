@@ -13,6 +13,29 @@
 <img src="https://img.shields.io/static/v1?label=Teaching&message=Start%20Coding&color=FF0000&style=for-the-badge&logo=youtube" alt="Teaching Badge">
 </p>
 
+## 📖 Índice
+
+- [🌎 Idiomas](#idiomas)
+- [📋 Un breve resumen...](#un-breve-resumen)
+  - [💻 Como Desarrollador...](#dev)
+  - [🎥 Como Educador...](#education)
+- [🧰 Mis Herramientas de Dev y DevOps](#-mis-herramientas-de-dev-y-devops)
+  - [🚀 Back-End](#back-end)
+  - [🎨 Front-End](#front-end)
+  - [🎲 Base de Datos](#database)
+  - [☁️ Nube](#cloud)
+  - [♾️ DevOps & Infraestructura](#devops)
+  - [⚙️ GitOps](#gitops)
+- [🔗 ¡Conectémonos!](#-conectemonos)
+- [💹 Mis Métricas de GitHub](#-mis-metricas-de-github)
+
+## 🌎 Idiomas
+- [Leia em Português (pt-BR)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
+- [Read in English (en)](https://github.com/igor-rl/igor-rl/tree/en/README.md)
+- [Ler en Español (es)](https://github.com/igor-rl/igor-rl/tree/es/README.md)
+
+## Un breve resumen...
+
 ```yml
 { 
   summary: {
@@ -24,7 +47,7 @@
 }
 ```
 <br/>
-
+<a id="dev"></a> 
 💻 **Como desarrollador, yo…**
 
 * Me especializo en prácticas de desarrollo y DevOps.
@@ -33,6 +56,7 @@
 * Tengo pasión por CI/CD, soluciones en la nube y automatización de flujos de trabajo para optimizar procesos de desarrollo.
 </br>
 
+<a id="education"></a>
 🎥 **Como educador, yo...**
 
 * Soy el creador e instructor de Start Coding, un canal de YouTube para programadores principiantes.
@@ -42,7 +66,9 @@
 ## 🧰 Mis recursos de dev y DevOps...
 
 <ul>
-  
+
+<a id="back-end"></a>
+
 🚀 **Back-End:**
 <p>
   <a href="https://golang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;"></a>
@@ -55,7 +81,7 @@
   <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs" height="35" style="margin: 5px;"></a>
 </p>
 
-##
+## <a id="front-end"></a>
 
 🎨 **Front-End:**
 <p>
@@ -68,7 +94,7 @@
   <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.JS" height="35" style="margin: 5px;"></a>
 </p>
 
-##
+## <a id="database"></a>
 
 🎲 **Database:**
 <p>
@@ -79,7 +105,7 @@
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="35" style="margin: 5px;"></a>
 </p>
 
-##
+## <a id="cloud"></a>
 
 ☁️ **Cloud:**
 <p>
@@ -88,7 +114,7 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="35" style="margin: 5px;"></a>
 </p>
 
-##
+## <a id="devops"></a>
 
 ♾️ **DevOps & Infrastructure:**
 <p>
@@ -101,7 +127,7 @@
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="35" style="margin: 5px;"></a>
 </p>
 
-##
+## <a id="gitops"></a>
 
 ⚙️ **GitOps:**
 <p>
