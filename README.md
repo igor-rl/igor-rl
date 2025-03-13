@@ -15,7 +15,7 @@
 
 ## 📖 Índice
 
-- [🌎 Idiomas](#idiomas)
+- [🌎 Idiomas](#-idiomas)
 - [📋 Un breve resumen...](#un-breve-resumen)
   - [💻 Como Desarrollador...](#dev)
   - [🎥 Como Educador...](#education)
@@ -26,8 +26,8 @@
   - [☁️ Nube](#cloud)
   - [♾️ DevOps & Infraestructura](#devops)
   - [⚙️ GitOps](#gitops)
-- [🔗 ¡Conectémonos!](#-conectemonos)
-- [💹 Mis Métricas de GitHub](#-mis-metricas-de-github)
+- [🔗 ¡Conectémonos!](#conectemonos)
+- [💹 Mis Métricas de GitHub](#mis-metricas-de-github)
 
 ## 🌎 Idiomas
 - [Leia em Português (pt-BR)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
