@@ -47,13 +47,17 @@
 
 <a id="dev"></a>
 💻 **As a developer, I…**
+
 	*	Specialize in development and DevOps practices.
 	*	Enjoy solving complex problems by building efficient and scalable web applications.
 	*	Work with modern technologies like Node.js, Go, Java, TypeScript, and more.
-	*	Have a passion for CI/CD, cloud solutions, and workflow automation to streamline development processes.<br/>
+	*	Have a passion for CI/CD, cloud solutions, and workflow automation to streamline development processes.
+
+<br/>
 
 <a id="education"></a>
-🎥 **As an educator, I...**  
+🎥 **As an educator, I...**
+
   * Am the creator and instructor of [Start Coding](https://www.youtube.com/@StartCodingOficial), a YouTube channel for beginner programmers.  
   * Focus on teaching the first steps into the world of development in a simple and practical way.
 <br/>
