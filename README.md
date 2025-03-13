@@ -9,6 +9,18 @@
 <img src="https://img.shields.io/static/v1?label=Teaching&message=Start%20Coding&color=FF0000&style=for-the-badge&logo=youtube" alt="Teaching Badge">
 </p>
 
+<p align="center">
+  <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
+    <img src="https://img.shields.io/badge/🇺🇸-Read%20in%20English-blue?style=for-the-badge" alt="Read in English">
+  </a>
+  <a href="https://github.com/igor-rl/igor-rl/tree/es/README.md">
+    <img src="https://img.shields.io/badge/🇪🇸-Ler%20en%20Español-FF8C00?style=for-the-badge" alt="Ler en Español">
+  </a>
+  <a href="https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md">
+    <img src="https://img.shields.io/badge/🇧🇷-Leia%20em%20Português-2E8B57?style=for-the-badge" alt="Leia em Português">
+  </a>
+</p>
+
 ## 📖 Índice
 
 - [🌎 Idiomas](#idiomas)
