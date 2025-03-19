@@ -10,13 +10,10 @@
 </p>
 
 <p align="center">
-  
-  [![English](https://img.shields.io/badge/🇺🇸%20Read%20in%20English-blue?style=for-the-badge)](https://github.com/igor-rl/igor-rl/tree/en/README.md)
-  
-  [![Español](https://img.shields.io/badge/🇪🇸%20Leer%20en%20Español-FF8C00?style=for-the-badge)](https://github.com/igor-rl/igor-rl/tree/es/README.md)
-  
-  [![Português](https://img.shields.io/badge/🇧🇷%20Leia%20em%20Português-2E8B57?style=for-the-badge)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
-</p>
+
+> 🇺🇸 **[Read in English](https://github.com/igor-rl/igor-rl/tree/en/README.md)**  
+> 🇪🇸 **[Leer en Español](https://github.com/igor-rl/igor-rl/tree/es/README.md)**  
+> 🇧🇷 **[Leia em Português](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)**  </p>
 
 ## 📖 Index
 
