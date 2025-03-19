@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-
-> 🇺🇸 **[Read in English](https://github.com/igor-rl/igor-rl/tree/en/README.md)**  
-> 🇪🇸 **[Leer en Español](https://github.com/igor-rl/igor-rl/tree/es/README.md)**  
-> 🇧🇷 **[Leia em Português](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)**  </p>
+  🇺🇸 **[Read in English](https://github.com/igor-rl/igor-rl/tree/en/README.md)**  
+  🇪🇸 **[Leer en Español](https://github.com/igor-rl/igor-rl/tree/es/README.md)**  
+  🇧🇷 **[Leia em Português](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)**  </p>
+</p>
 
 ## 📖 Index
 
