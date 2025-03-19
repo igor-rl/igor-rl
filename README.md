@@ -10,15 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
-    <img src="https://img.shields.io/badge/-🇺🇸%20Read%20in%20English-blue?style=for-the-badge" alt="Read in English">
-  </a>
-  <a href="https://github.com/igor-rl/igor-rl/tree/es/README.md">
-    <img src="https://img.shields.io/badge/-🇪🇸%20Leer%20en%20Español-FF8C00?style=for-the-badge" alt="Leer en Español">
-  </a>
-  <a href="https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md">
-    <img src="https://img.shields.io/badge/-🇧🇷%20Leia%20em%20Português-2E8B57?style=for-the-badge" alt="Leia em Português">
-  </a>
+  [![English](https://img.shields.io/badge/🇺🇸%20Read%20in%20English-blue?style=for-the-badge)](https://github.com/igor-rl/igor-rl/tree/en/README.md)
+  [![Español](https://img.shields.io/badge/🇪🇸%20Leer%20en%20Español-FF8C00?style=for-the-badge)](https://github.com/igor-rl/igor-rl/tree/es/README.md)
+  [![Português](https://img.shields.io/badge/🇧🇷%20Leia%20em%20Português-2E8B57?style=for-the-badge)](https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md)
 </p>
 
 ## 📖 Index
