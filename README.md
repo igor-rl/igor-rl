@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
-    <img src="https://img.shields.io/badge/🈳%20Read%20in%20English-blue?style=for-the-badge" alt="Read in English">
+    <img src="https://img.shields.io/badge/🇧🇷%20Read%20in%20English-blue?style=for-the-badge" alt="Read in English">
   </a>
   <a href="https://github.com/igor-rl/igor-rl/tree/es/README.md">
     <img src="https://img.shields.io/badge/🈳%20Leer%20en%20Español-FF8C00?style=for-the-badge" alt="Leer en Español">
