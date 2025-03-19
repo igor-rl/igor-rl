@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
-    <img src="https://img.shields.io/badge/Read%20in%20English-blue?style=for-the-badge" alt="Read in English">
+    <img src="https://img.shields.io/badge/Read%20in%20English-808080?style=for-the-badge" alt="Read in English">
   </a>
   <a href="https://github.com/igor-rl/igor-rl/tree/es/README.md">
-    <img src="https://img.shields.io/badge/Leer%20en%20Español-FF8C00?style=for-the-badge" alt="Leer en Español">
+    <img src="https://img.shields.io/badge/Leer%20en%20Español-blue?style=for-the-badge" alt="Leer en Español">
   </a>
   <a href="https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md">
-    <img src="https://img.shields.io/badge/Leia%20em%20Português-2E8B57?style=for-the-badge" alt="Leia em Português">
+    <img src="https://img.shields.io/badge/Leia%20em%20Português-808080?style=for-the-badge" alt="Leia em Português">
   </a>
 </p>
 
