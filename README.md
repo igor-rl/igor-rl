@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
-    <img src="https://img.shields.io/static/v1?label=%F0%9F%87%BA%F0%9F%87%B8&message=Read%20in%20English&color=blue&style=for-the-badge" alt="Read in English">
-  </a>
+  ![Static Badge](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7Portugu%C3%AAs?link=https%3A%2F%2Fgithub.com%2Figor-rl%2Figor-rl%2Ftree%2Fen%2FREADME.md)
   <a href="https://github.com/igor-rl/igor-rl/tree/es/README.md">
     <img src="https://img.shields.io/static/v1?label=%F0%9F%87%AA%F0%9F%87%B8&message=Leer%20en%20Español&color=FF8C00&style=for-the-badge" alt="Leer en Español">
   </a>
