@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/static/v1?label=Teaching&message=Start%20Coding&color=FF0000&style=for-the-badge&logo=youtube" alt="Teaching Badge">
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
     <img src="https://img.shields.io/badge/Read%20in%20English-blue?style=for-the-badge" alt="Read in English">
@@ -49,6 +50,7 @@
 }
 ```
 <br/>
+-->
 
 <a id="dev"></a>
 💻 **As a developer, I...**
