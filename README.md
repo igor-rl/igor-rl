@@ -1,4 +1,7 @@
-![igorlage](src/img/3.png)
+
+
+# 👋 Olá! Eu sou Igor Lage.
+
 
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
@@ -12,7 +15,7 @@
   </a>
 </p>
 
-# 👋 Olá! Eu sou Igor Lage.
+<br>
 
 Sou Desenvolvedor Full Stack e entusiasta de DevOps, apaixonado por criar sistemas eficientes, escaláveis e bem estruturados.  
 Gosto de unir tecnologias como Node.js, Go, Java e TypeScript para desenvolver soluções sólidas e automatizar fluxos de trabalho com práticas de CI/CD e nuvem.  
@@ -20,7 +23,6 @@ Além do desenvolvimento, compartilho meu conhecimento através de aulas particu
 
 🌐 Para saber mais, visite [igorlage.vercel.app](https://igorlage.vercel.app)
 
-<br/>
 
 ## 🔗 Vamos nos conectar?
 
