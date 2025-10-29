@@ -1,12 +1,4 @@
-<!-- badges https://github.com/Ileriayo/markdown-badges -->
-<!-- icons https://devicon.dev/ -->
-<!-- perfil_examples https://github.com/iuricode/readme-template/tree/main/perfil-->
-
-# 👋 Olá! Eu sou Igor Lage.
-
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
-</p>
+![igorlage](src/img/3.png)
 
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
@@ -19,6 +11,8 @@
     <img src="https://img.shields.io/badge/Português-808080?style=for-the-badge" alt="Português">
   </a>
 </p>
+
+# 👋 Olá! Eu sou Igor Lage.
 
 Sou Desenvolvedor Full Stack e entusiasta de DevOps, apaixonado por criar sistemas eficientes, escaláveis e bem estruturados.  
 Gosto de unir tecnologias como Node.js, Go, Java e TypeScript para desenvolver soluções sólidas e automatizar fluxos de trabalho com práticas de CI/CD e nuvem.  
@@ -43,6 +37,9 @@ Estou ativo nas redes sociais:
 
 # 
 <div align="center">
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Igor_Lage-blue?style=social&logo=github)](https://github.com/igor-rl) 
 ![Static Badge](https://img.shields.io/badge/10--03--2025-black)
