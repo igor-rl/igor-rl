@@ -2,77 +2,38 @@
 <!-- icons https://devicon.dev/ -->
 <!-- profile_examples https://github.com/iuricode/readme-template/tree/main/perfil -->
 
-# 👋 Hi, I'm Igor Lage!
+
+# 👋 Hi, I'm Igor Lage.
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<img src="https://img.shields.io/static/v1?label=Teaching&message=Start%20Coding&color=FF0000&style=for-the-badge&logo=youtube" alt="Teaching Badge">
+<!-- <img src="https://img.shields.io/static/v1?label=Teaching&message=Private%20Lessons&color=FF0000&style=for-the-badge&logo=readme" alt="Teaching Badge"> -->
 </p>
 
-<!--
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
-    <img src="https://img.shields.io/badge/Read%20in%20English-blue?style=for-the-badge" alt="Read in English">
+    <img src="https://img.shields.io/badge/English-blue?style=for-the-badge" alt="English">
   </a>
   <a href="https://github.com/igor-rl/igor-rl/tree/es/README.md">
-    <img src="https://img.shields.io/badge/Leer%20en%20Español-808080?style=for-the-badge" alt="Leer en Español">
+    <img src="https://img.shields.io/badge/Español-808080?style=for-the-badge" alt="Español">
   </a>
   <a href="https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md">
-    <img src="https://img.shields.io/badge/Leia%20em%20Português-808080?style=for-the-badge" alt="Leia em Português">
+    <img src="https://img.shields.io/badge/Português-808080?style=for-the-badge" alt="Português">
   </a>
 </p>
 
-## 📖 Index
+I'm a Full Stack Developer and DevOps enthusiast passionate about building efficient, scalable, and well-structured systems.  
+I love uniting technologies like Node.js, Go, Java, and TypeScript to create solid solutions and automate workflows through CI/CD and cloud practices.  
+Beyond development, I also share my knowledge through private programming lessons, helping beginners and aspiring developers build real projects and gain confidence in their journey.  
 
-- [📋 A brief summary...](#a-brief-summary)
-  - [💻 As a Developer...](#dev)
-  - [🎥 As an Educator...](#education)
-- [🧰 My Dev and DevOps Tools](#-my-dev-and-devops-tools)
-  - [🚀 Back-End](#back-end)
-  - [🎨 Front-End](#front-end)
-  - [🎲 Database](#database)
-  - [☁️ Cloud](#cloud)
-  - [♾️ DevOps & Infrastructure](#devops)
-  - [⚙️ GitOps](#gitops)
-- [🔗 Let's Connect!](#-lets-connect)
-- [💹 My GitHub Metrics](#-my-github-metrics)
+🌐 To learn more, visit [igorlage.vercel.app](https://igorlage.vercel.app)
 
-## 📋 A brief summary...
-
-```bash
-{ 
-  summary: {
-    name: "Igor Lage",
-    profession: "Web Developer & DevOps 👨‍💻",
-    hobby: "Instructor at Start Coding 🎥",
-    languages: "Python, Node.js, Go, Java, TypeScript, PHP and more... 🛠️"
-  }
-}
-```
-<br/>
--->
-
-<a id="dev"></a>
-💻 **As a developer, I...**
-  *	Specialize in development and DevOps practices.
-	*	Enjoy solving complex problems by building efficient and scalable web applications.
-	*	Work with modern technologies like Node.js, Go, Java, TypeScript, and more.
-	*	Have a passion for CI/CD, cloud solutions, and workflow automation to streamline development processes.
-<br/>
-
-<a id="education"></a>
-🎥 **As an educator, I...**
-
-  * Am the creator and instructor of [Start Coding](https://www.youtube.com/@StartCodingOficial), a YouTube channel for beginner programmers.  
-  * Focus on teaching the first steps into the world of development in a simple and practical way.
-<br/>
-
-## 🧰 My Dev e Devops Tools...
-
+<!--
+## 🧰 My Dev & DevOps Tools
 <ul>
   <a id="back-end"></a>
   
-  🚀 **Back-End:**
+<!--  🚀 **Back-End:**
   <p>
     <a href="https://golang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="45" style="margin: 5px;"></a>
     <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="45" style="margin: 5px;"></a>
@@ -80,7 +41,9 @@
     <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" height="40" style="margin: 5px;"></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="35" style="margin: 5px;"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="35" style="margin: 5px;"></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="Express.js" height="35" style="margin: 5px;"></a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  alt="express" height="35" style="margin: 5px;"/>
+    </a>
     <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs" height="35" style="margin: 5px;"></a>
   </p>
   
@@ -134,6 +97,9 @@
     <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="35" style="margin: 5px;"></a>
   </p>
 </ul>
+
+-->
+
 <br/>
 
 ## 🔗 Let's connect!
