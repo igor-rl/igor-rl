@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
-    <img src="https://img.shields.io/badge/English-blue?style=for-the-badge" alt="English">
+    <img src="https://img.shields.io/badge/English-808080?style=for-the-badge" alt="English">
   </a>
   <a href="https://github.com/igor-rl/igor-rl/tree/es/README.md">
     <img src="https://img.shields.io/badge/Español-808080?style=for-the-badge" alt="Español">
   </a>
   <a href="https://github.com/igor-rl/igor-rl/tree/pt-BR/README.md">
-    <img src="https://img.shields.io/badge/Português-808080?style=for-the-badge" alt="Português">
+    <img src="https://img.shields.io/badge/Português-blue?style=for-the-badge" alt="Português">
   </a>
 </p>
 
