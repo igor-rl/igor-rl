@@ -1,14 +1,8 @@
 <!-- badges https://github.com/Ileriayo/markdown-badges -->
 <!-- icons https://devicon.dev/ -->
 <!-- profile_examples https://github.com/iuricode/readme-template/tree/main/perfil -->
-
-
 # 👋 Hi, I'm Igor Lage.
 
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
-<!-- <img src="https://img.shields.io/static/v1?label=Teaching&message=Private%20Lessons&color=FF0000&style=for-the-badge&logo=readme" alt="Teaching Badge"> -->
-</p>
 
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
@@ -117,6 +111,10 @@ Open to sharing ideas, collaborating, and growing together. Feel free to reach o
 
 # 
 <div align="center">
+
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Igor_Lage-blue?style=social&logo=github)](https://github.com/igor-rl) 
 ![Static Badge](https://img.shields.io/badge/10--03--2025-black)
