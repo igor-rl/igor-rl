@@ -24,7 +24,7 @@ Además del desarrollo, comparto mis conocimientos a través de clases particula
 Abierto a compartir ideas, colaborar y crecer juntos. ¡No dudes en contactarme!
   * [LinkedIn](https://linkdin.com/in/igor-rl)
   * [X](https://x.com/igor-rl)
-  * [portifólio]((https://igorlage.vercel.app)
+  * [portifólio](https://igorlage.vercel.app)
 <br/>
 
 ## 💹 Mis Métricas de GitHub 
