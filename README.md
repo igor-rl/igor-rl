@@ -29,7 +29,7 @@ Além do desenvolvimento, compartilho meu conhecimento através de aulas particu
 Estou ativo nas redes sociais:  
   * [LinkedIn](https://linkdin.com/in/igor-rl)
   * [X](https://x.com/igor-rl)
-  * [youtube](https://www.youtube.com/@StartCodingOficial)
+  * [portifólio](https://igorlage.vercel.app)
 <br/>
 
 ## 💹 Minhas Métricas no GitHub
