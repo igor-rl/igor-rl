@@ -101,7 +101,7 @@ Beyond development, I also share my knowledge through private programming lesson
 Open to sharing ideas, collaborating, and growing together. Feel free to reach out!
   * [LinkedIn](https://linkdin.com/in/igor-rl)
   * [X](https://x.com/igor-rl)
-  * [youtube](https://www.youtube.com/@StartCodingOficial)
+  * [portifolio](https://igorlage.vercel.app)
 <br/>
 
 ## 💹 My GitHub Metrics
