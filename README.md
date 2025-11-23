@@ -20,7 +20,7 @@ I'm a Full Stack Developer and DevOps enthusiast passionate about building effic
 I love uniting technologies like Node.js, Go, Java, and TypeScript to create solid solutions and automate workflows through CI/CD and cloud practices.  
 Beyond development, I also share my knowledge through private programming lessons, helping beginners and aspiring developers build real projects and gain confidence in their journey.  
 
-🌐 To learn more, visit [igorlage.vercel.app](https://igorlage.vercel.app)
+🌐 To learn more, visit [igorlage.vercel.app](https://igorlage.vercel.app/en)
 
 <!--
 ## 🧰 My Dev & DevOps Tools
