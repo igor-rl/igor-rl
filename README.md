@@ -110,6 +110,7 @@ Open to sharing ideas, collaborating, and growing together. Feel free to reach o
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 # 
+
 <div align="center">
 
 <p align="center">
