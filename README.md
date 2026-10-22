@@ -1,7 +1,4 @@
-
-
 # 👋 Olá! Eu sou Igor Lage.
-
 
 <p align="center">
   <a href="https://github.com/igor-rl/igor-rl/tree/en/README.md">
@@ -15,35 +12,35 @@
   </a>
 </p>
 
-<br>
+Desenvolvedor full stack e DevOps sênior, com mais de dez anos de experiência.
+Construo e coloco no ar sistemas completos: do modelo de dados e da API até a interface web e o pipeline de entrega.
 
-Sou Desenvolvedor Full Stack e entusiasta de DevOps, apaixonado por criar sistemas eficientes, escaláveis e bem estruturados.  
-Gosto de unir tecnologias como Node.js, Go, Java e TypeScript para desenvolver soluções sólidas e automatizar fluxos de trabalho com práticas de CI/CD e nuvem.  
-Além do desenvolvimento, compartilho meu conhecimento através de aulas particulares de programação, ajudando iniciantes e aspirantes a desenvolvedores a criarem projetos reais e ganharem confiança na jornada.  
+## Stack
 
-🌐 Para saber mais, visite [igorlage.vercel.app](https://igorlage.vercel.app/pt/home)
+**Aplicações:** TypeScript · Node.js · NestJS · React · Next.js · PHP · Python  
+**Dados:** PostgreSQL · MySQL · Redis · RabbitMQ  
+**Infraestrutura:** Docker · Kubernetes · Terraform · GCP · AWS · GitHub Actions
 
+## Projetos
 
-## 🔗 Vamos nos conectar?
+- **Frota360**: sistema de gestão de aluguel de veículos, em uso por uma locadora, com mais de 30 motoristas ativos e 50 veículos, com cobrança semanal automática, conferência de pagamentos por auditor, controle de acesso por função, 2FA e relatórios (NestJS, Next.js, PostgreSQL, Redis, S3)
+- [**vitrine-zap**](https://vitrine-zap-dun.vercel.app): catálogo multi-loja com pedido pronto no WhatsApp e painel do lojista (Next.js, TypeScript)
+- [**cv-generator**](https://cv-generator-liart.vercel.app): gerador de currículos com IA, PWA offline-first
+- [**ssh_dev_tunnel**](https://github.com/igor-rl/ssh_dev_tunnel): CLI para túneis SSH reversos com cofre de senhas (Python)
 
-Estou ativo nas redes sociais:  
-  * [LinkedIn](https://linkdin.com/in/igor-rl)
-  * [X](https://x.com/igor-rl)
-  * [portifólio](https://igorlage.vercel.app)
-<br/>
+## Como eu trabalho
 
-## 💹 Minhas Métricas no GitHub
+- Regras de domínio explícitas e testadas
+- Segurança por padrão: permissões por função, auditoria e autenticação robusta
+- Consistência garantida pelo banco, não só pela aplicação
+- Ambientes reproduzíveis, entrega contínua e sistemas que outro time consegue manter
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rl&layout=compact&hide=html&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-rl&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+## Contato
 
-# 
+[LinkedIn](https://www.linkedin.com/in/igor-rl) · [Site](https://igorlage.vercel.app)
+
 <div align="center">
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=IRL&message=FULL%20STACK%20DEVOPS&color=2d2d2d&style=for-the-badge&logo=GitHub">
 </p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Igor_Lage-blue?style=social&logo=github)](https://github.com/igor-rl) 
-![Static Badge](https://img.shields.io/badge/10--03--2025-black)
-
 </div>
